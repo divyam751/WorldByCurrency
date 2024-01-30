@@ -45,16 +45,13 @@ This will start the development server, and you can view the app by navigating t
 - **Responsive Design:** The UI is designed to be responsive, ensuring a consistent experience across various devices.
 
 ## Screenshots
+![Screenshot 2024-01-31 013351](https://github.com/divyam751/WorldByCurrency/assets/125983433/e57479e7-479e-413a-b180-5daeab30a561)
+![Screenshot 2024-01-31 013620](https://github.com/divyam751/WorldByCurrency/assets/125983433/812fc595-66b2-4277-b902-a733c72e9302)
 
-Insert screenshots of the application in action.
 
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the application.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
